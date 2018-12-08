@@ -1,0 +1,3 @@
+- differentiate the hands (css) color and length
+- make the seconds hand not just all the way around (-360 degrees), by removing the transition function during the (59-60) second degree rotation
+- add numbers to the clock
